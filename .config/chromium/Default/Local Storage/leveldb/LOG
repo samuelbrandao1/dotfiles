@@ -1,9 +1,6 @@
-2026/07/15-15:14:25.093 5 Reusing MANIFEST /home/samuel/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
-2026/07/15-15:14:25.096 5 Recovering log #167
-2026/07/15-15:14:25.096 5 Reusing old log /home/samuel/.config/chromium/Default/Local Storage/leveldb/000167.log 
-2026/07/15-15:15:25.098 5 Level-0 table #172: started
-2026/07/15-15:15:25.100 5 Level-0 table #172: 20478 bytes OK
-2026/07/15-15:15:25.102 5 Delete type=0 #167
-2026/07/15-15:43:16.367 5 Level-0 table #174: started
-2026/07/15-15:43:16.378 5 Level-0 table #174: 13297 bytes OK
-2026/07/15-15:43:16.382 5 Delete type=0 #171
+2026/07/15-19:12:06.153 5 Reusing MANIFEST /home/samuel/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2026/07/15-19:12:06.157 5 Recovering log #183
+2026/07/15-19:12:06.157 5 Reusing old log /home/samuel/.config/chromium/Default/Local Storage/leveldb/000183.log 
+2026/07/15-19:13:06.160 5 Level-0 table #187: started
+2026/07/15-19:13:06.169 5 Level-0 table #187: 19930 bytes OK
+2026/07/15-19:13:06.174 5 Delete type=0 #183

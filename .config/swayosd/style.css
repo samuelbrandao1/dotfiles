@@ -3,7 +3,7 @@
 window {
   border-radius: 15px;
   opacity: 0.90;
-  border: solid @border-color;
+  border: 2px solid @border-color;
 
   background-color: @background-color;
 }
