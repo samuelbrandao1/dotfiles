@@ -1,0 +1,5 @@
+2026/07/15-15:14:25.600 5 Creating DB /home/samuel/.config/chromium/Default/Session Storage since it was missing.
+2026/07/15-15:14:25.603 5 Reusing MANIFEST /home/samuel/.config/chromium/Default/Session Storage/MANIFEST-000001
+2026/07/15-15:53:22.601 5 Level-0 table #5: started
+2026/07/15-15:53:22.613 5 Level-0 table #5: 195840 bytes OK
+2026/07/15-15:53:22.617 5 Delete type=0 #3

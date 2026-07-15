@@ -1,0 +1,30 @@
+2026/07/15-00:58:20.312 196a Reusing MANIFEST /home/samuel/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/07/15-00:58:20.312 196a Recovering log #18
+2026/07/15-00:58:20.312 196a Reusing old log /home/samuel/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000018.log 
+2026/07/15-01:06:36.582 196d Level-0 table #23: started
+2026/07/15-01:06:36.592 196d Level-0 table #23: 1424820 bytes OK
+2026/07/15-01:06:36.593 196d Delete type=0 #18
+2026/07/15-01:08:21.028 196a Compacting 1@1 + 1@2 files
+2026/07/15-01:08:21.031 196a Generated table #24@1: 654 keys, 42093 bytes
+2026/07/15-01:08:21.031 196a Compacted 1@1 + 1@2 files => 42093 bytes
+2026/07/15-01:08:21.032 196a compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/07/15-01:08:21.032 196a Delete type=2 #20
+2026/07/15-01:08:21.032 196a Delete type=2 #23
+2026/07/15-01:18:49.882 1969 Level-0 table #26: started
+2026/07/15-01:18:49.891 1969 Level-0 table #26: 1215713 bytes OK
+2026/07/15-01:18:49.893 1969 Delete type=0 #22
+2026/07/15-01:20:50.282 1969 Compacting 1@1 + 1@2 files
+2026/07/15-01:20:50.293 1969 Generated table #27@1: 805 keys, 40729 bytes
+2026/07/15-01:20:50.294 1969 Compacted 1@1 + 1@2 files => 40729 bytes
+2026/07/15-01:20:50.297 1969 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/07/15-01:20:50.297 1969 Delete type=2 #24
+2026/07/15-01:20:50.297 1969 Delete type=2 #26
+2026/07/15-01:30:00.290 196d Level-0 table #29: started
+2026/07/15-01:30:00.297 196d Level-0 table #29: 1218764 bytes OK
+2026/07/15-01:30:00.298 196d Delete type=0 #25
+2026/07/15-01:30:40.081 196a Compacting 1@1 + 1@2 files
+2026/07/15-01:30:40.085 196a Generated table #30@1: 939 keys, 46365 bytes
+2026/07/15-01:30:40.085 196a Compacted 1@1 + 1@2 files => 46365 bytes
+2026/07/15-01:30:40.085 196a compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/07/15-01:30:40.086 196a Delete type=2 #27
+2026/07/15-01:30:40.086 196a Delete type=2 #29
