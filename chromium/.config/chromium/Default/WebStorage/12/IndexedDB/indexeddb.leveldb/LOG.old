@@ -1,7 +1,0 @@
-2026/07/15-01:31:00.650 196a Reusing MANIFEST /home/samuel/.config/chromium/Default/WebStorage/12/IndexedDB/indexeddb.leveldb/MANIFEST-000001
-2026/07/15-01:31:00.650 196a Recovering log #3
-2026/07/15-01:31:00.650 196a Reusing old log /home/samuel/.config/chromium/Default/WebStorage/12/IndexedDB/indexeddb.leveldb/000003.log 
-2026/07/15-01:32:55.144 196a Level-0 table #5: started
-2026/07/15-01:32:55.145 196a Level-0 table #5: 44429 bytes OK
-2026/07/15-01:32:55.145 196a Delete type=0 #3
-2026/07/15-01:32:55.146 196a Manual compaction at level-0 from (begin) .. (end); will stop at (end)
