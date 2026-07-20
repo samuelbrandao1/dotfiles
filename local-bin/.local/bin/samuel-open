@@ -1,0 +1,7 @@
+#!/bin/bash
+
+mkdir -p ~/Documents/samuel
+
+gocryptfs \
+~/Documents/samuel-encrypted \
+~/Documents/samuel
